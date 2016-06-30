@@ -2,5 +2,7 @@ site_name: Documentation
 pages:
 - Home: index.md
 - Technology:
-  - 'Initial Server Setup with Ubuntu 16.04': technology/ubuntu_initial.md
-theme: material
+  - Ubuntu:
+    - 'Initial Server Setup with Ubuntu 16.04': technology/ubuntu/initial.md
+    - 'How To Set Up Apache Virtual Hosts on Ubuntu 16.04': technology/ubuntu/vhost.md
+theme: mkdocs
