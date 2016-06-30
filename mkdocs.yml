@@ -3,4 +3,4 @@ pages:
 - Home: index.md
 - Technology:
   - 'Initial Server Setup with Ubuntu 16.04': technology/ubuntu_initial.md
-theme: readthedocs
+theme: material
